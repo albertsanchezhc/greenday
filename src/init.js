@@ -33,4 +33,26 @@ $(document).ready(function() {
   $(".dancer").animate({left: "50%"});
 });
 //mouse
+count = 10;
+$(document).ready(function() {
+    for (i = 0; i < count; i++) {
+        $(".cont").append(`<div class='dot dot${i}'></div>`);
+    }
+
+    $(document).mousemove(function() {
+        mX = event.clientX;
+        mY = event.clientY;
+        for (i = 0; i < count; i++) {
+            R = 30 + 15 * i;
+            G = 10 + 10 * i;
+            B = 90 * i;
+            $(".dot" + i).css({
+                left: mX + "px",
+                top: mY + "px",
+                transition: `0.${i}s linear`,
+                background: `rgba(${R}, ${G}, ${B}, 1)`
+            });
+        };
+    });
+});
 });
