@@ -81,10 +81,10 @@ body, a:link, a:visited, a:active{
 }
 .topbar{
   height:32px;
-  background-color:  #b300b3;
+  background-color:  ;
 }
 .title{
-  background-color: #df9fdf;
+  background-color: ;
 }
 .dancer{
   background-image: url("/home/hc038/Downloads/camilo.gif");
@@ -111,7 +111,7 @@ body, a:link, a:visited, a:active{
   position:absolute;
 }
 #ace{
-    background-image: url("/home/hc038/Downloads/ace.gif");
+    background-image: url("/home/hc038/Documents/subclass-dance-party/Link to Webp.net-resizeimage.jpg");
   background-size: 200px 200px;
   background-repeat: no-repeat;
   height: 200px;

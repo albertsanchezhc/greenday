@@ -4,7 +4,7 @@ var ace = function(top, left, timeBetweenSteps) {
 };
 ace.prototype = Object.create(Dancer.prototype);
 
-ace.prototype.constructor = camilo;
+ace.prototype.constructor = ace;
 
 ace.prototype.step = function() {
   Dancer.prototype.step.call(this);
