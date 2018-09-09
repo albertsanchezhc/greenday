@@ -3,13 +3,13 @@ body, html{
 }
 body{
   margin: 0px;
-  background-image: url("/home/hc038/Downloads/Link to giphy.gif");
+  background-image: url("/home/albert/Documents/subclass-dance-party/giphygd.gif");
   font-size: 18px;
   background-size: 1300px 600px;
   background-position: bottom;
 }
 body, a:link, a:visited, a:active{
-  color: white;
+  color: GREEN;
   font-weight: 700;
   font-size: 29px;
   letter-spacing: 5;
@@ -87,7 +87,7 @@ body, a:link, a:visited, a:active{
   background-color: ;
 }
 .dancer{
-  background-image: url("/home/hc038/Downloads/camilo.gif");
+  background-image: url("/home/albert/Documents/subclass-dance-party/americaidiot.jpg");
   background-size: 200px 200px;
   background-repeat: no-repeat;
   height: 200px;
@@ -95,7 +95,7 @@ body, a:link, a:visited, a:active{
   position:absolute;
 }
 #Wdog{
-    background-image: url("/home/hc038/Downloads/moneyd.gif");
+    background-image: url("/home/albert/Documents/subclass-dance-party/jesus of suburbia.jpg");
   background-size: 200px 200px;
   background-repeat: no-repeat;
   height: 200px;
@@ -103,7 +103,7 @@ body, a:link, a:visited, a:active{
   position:absolute;
 }
 #Ddog{
-    background-image: url("/home/hc038/Downloads/dancing dog.gif");
+    background-image: url("/home/albert/Documents/subclass-dance-party/gd.gif");
   background-size: 200px 200px;
   background-repeat: no-repeat;
   height: 200px;
@@ -111,7 +111,7 @@ body, a:link, a:visited, a:active{
   position:absolute;
 }
 #ace{
-    background-image: url("/home/hc038/Documents/subclass-dance-party/Link to Webp.net-resizeimage.jpg");
+    background-image: url("/home/albert/Documents/subclass-dance-party/dumb.gif");
   background-size: 200px 200px;
   background-repeat: no-repeat;
   height: 200px;
